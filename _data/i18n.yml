@@ -8,68 +8,70 @@ subtitle:
 
 description:
   default: "Explanations of hard concepts using baseball in a fun way"
+  en: "Explanations of hard concepts using baseball in a fun way"
+  es: "Explicaciones de conceptos difíciles usando baseball de forma divertida"
 
 in:
   default: in
   en: in
-  es: 类别：
+  es: Dentro de：
 
 share:
   default: 'Share: '
   en: 'Share: '
-  es: 分享：
+  es: Compartir：
 
 search:
   default: Search
   en: Search
-  es: 搜索
+  es: Búsqueda
 
 no_result:
   default: 'No result'
   en: 'No result'
-  es: 无结果
+  es: Sin resultado
 
 about:
   default: About
   en: About
-  es: 关于
+  es: Acerca de
 
 posts:
   default: Posts
   en: Posts
-  es: 文章
+  es: Publicaciones
 
 contact:
   default: Contact
   en: Contact
-  es: 联系
+  es: Contacto
 
 language:
   default: Language
   en: Language
-  es: 语言
+  es: Idioma
 
 reading:
   default: "I'm reading"
   en: "I'm reading"
-  es: 我在读
+  es: Estoy leyendo
 
 disqus_noscript:
   default: 'Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>'
   en: 'Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>'
-  es: '在<a href="http://disqus.com/?ref_noscript">Disqus</a>上讨论，请启用JavaScript。'
+  es: 'Por favor, habilita JavaScript para ver el <a href="http://disqus.com/?ref_noscript">comentarios desarrolladors por Disqus.</a>'
 
 disqus_power:
   default: 'comments powered by <span class="logo-disqus">Disqus</span>'
   en: 'comments powered by <span class="logo-disqus">Disqus</span>'
-  es: '在<span class="logo-disqus">Disqus</span>上讨论'
+  es: 'comentarios desarrollados por <span class="logo-disqus">Disqus</span>'
 
 sitemap:
   default: 'Site Map'
   en: 'Site Map'
-  es: 站点地图
+  es: Mapa del sitio
 
 subscribe_via:
   default: 'Subscribe via'
   en: 'Subscribe via'
-  es: '订阅：'
+  es: 'Subscríbete a través de：'
