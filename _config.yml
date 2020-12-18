@@ -6,19 +6,19 @@ plugins:
   - jekyll-sitemap
 
 # Site settings
-title: HW311
-subtitle: "&mdash; Where I learn, code, and live."
-email: wangzixu.china@gmail.com
-name: Zixu Wang
+title: 1-2-3 Double Play!
+subtitle: "Explanations of hard concepts using baseball in a fun way"
+email: 123doubleplay.com@gmail.com
+name: 123 Double Play
 description: >
-  &mdash; Where I learn, code, and live.
+  Explanations of hard concepts using baseball in a fun way
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://hw311.me" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+url: "https://123doubleplay.github.io/" # the base hostname & protocol for your site
+cover: "/assets/header_image.png"
+logo: "/assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -33,10 +33,10 @@ permalink: pretty
 inter_post_navigation: true
 
 # Disqus comments
-disqus_shortname: hw311
+disqus_shortname: 123DP
 
 # Google analytics
-ga_tracking_id: "UA-61139519-1"
+ga_tracking_id: "None"
 
 # Social icons and sharing options
 #
@@ -56,15 +56,15 @@ ga_tracking_id: "UA-61139519-1"
 social:
   - name: GitHub
     icon: github
-    username: zixu-w
-    url: https://github.com/zixu-w
+    username:
+    url:
     desc: Follow me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Zixu Wang
-    url: https://www.linkedin.com/in/zixuwang/
+    username:
+    url:
     desc: Connect with me on LinkedIn
     share: true
 
@@ -91,8 +91,8 @@ social:
 
   - name: Twitter
     icon: twitter
-    username:
-    url:
+    username: 123double_play
+    url: https://twitter.com/123double_play
     desc: Share to Twitter
     share: true
 
@@ -107,13 +107,13 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/logo.jpg"
     fb_image_width: 612
     fb_image_height: 605
-    fb_image_type: "image/png"
+    fb_image_type: "image/jpg"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/logo.jpg"
 
-    os_repo: "https://github.com/zixu-w/zixu-w.github.io"
+    os_repo: "https://github.com/123doubleplay/123doubleplay.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:zixu-w/zixu-w.github.io.git"
+    os_src: "git@github.com:123doubleplay/123doubleplay.github.io.git"
