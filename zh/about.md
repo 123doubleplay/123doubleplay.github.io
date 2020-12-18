@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 关于
-permalink: /zh/about/
-lang: zh
+permalink: /es/about/
+lang: es
 no_back_top: true
 ref: about
 ---

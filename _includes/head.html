@@ -143,10 +143,10 @@
   {% assign posts = site.posts | where:"ref", page.ref %}
   {% assign ps = pages | concat: posts %}
   {% assign en_page = ps | where:"lang", "en" %}
-  {% assign zh_page = ps | where:"lang", "zh" %}
+  {% assign es_page = ps | where:"lang", "es" %}
 
-  {% if zh_page.size > 0 %}
-  <link rel="alternate" hreflang="zh" href="{{ site.url }}{{ site.baseurl }}{{ zh_page[0].url }}">
+  {% if es_page.size > 0 %}
+  <link rel="alternate" hreflang="es" href="{{ site.url }}{{ site.baseurl }}{{ es_page[0].url }}">
   {% endif %}
   {% if en_page.size > 0 %}
   <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ en_page[0].url }}">

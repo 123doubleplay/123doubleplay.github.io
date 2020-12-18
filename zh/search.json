@@ -3,7 +3,7 @@ layout: null
 ---
 [
   {% for post in site.posts %}
-  {% if post.lang == 'zh' %}
+  {% if post.lang == 'es' %}
     {
       "title"      : {{ post.title | jsonify }},
       "html_title" : {{ post.html_title | jsonify }},

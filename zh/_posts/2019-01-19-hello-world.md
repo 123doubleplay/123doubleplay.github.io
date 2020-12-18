@@ -6,7 +6,7 @@ author: Zixu Wang
 categories: Misc
 tags: 杂文
 cover:  "/assets/imgs/IMG_7381.jpg"
-lang: zh
+lang: es
 ref: hello-world
 ---
 

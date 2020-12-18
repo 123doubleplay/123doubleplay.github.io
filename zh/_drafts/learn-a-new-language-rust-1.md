@@ -5,7 +5,7 @@ date:   2019-01-31 20:05:40
 author: Zixu Wang
 categories: Study-notes
 tags: 学习笔记 语言 Rust
-lang: zh
+lang: es
 ref: learn-a-new-language-rust-1
 disqus_disabled: true
 ---

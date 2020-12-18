@@ -86,8 +86,8 @@
         {% assign posts = site.posts | where:"ref", page.ref %}
         {% assign ps = pages | concat: posts %}
         {% assign en_page = ps | where:"lang", "en" %}
-        {% assign zh_page = ps | where:"lang", "zh" %}
-        <li class="nav-link"><a class="rm-pad-right" href="{% if en_page.size > 0 %}{{ en_page[0].url }}{% else %}/404.html{% endif %}">English</a>|<a href="{% if zh_page.size > 0 %}{{ zh_page[0].url }}{% else %}/404.html{% endif %}">Español</a></li>
+        {% assign es_page = ps | where:"lang", "es" %}
+        <li class="nav-link"><a class="rm-pad-right" href="{% if en_page.size > 0 %}{{ en_page[0].url }}{% else %}/404.html{% endif %}">English</a>|<a href="{% if es_page.size > 0 %}{{ es_page[0].url }}{% else %}/404.html{% endif %}">Español</a></li>
       </ul>
       <br>
       <p class="rss-subscribe text"><strong>
