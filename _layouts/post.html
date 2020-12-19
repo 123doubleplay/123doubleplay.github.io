@@ -20,7 +20,7 @@ layout: default
   <div class="post-date">
     {% case page.lang %}
       {% when 'es' %}
-        {{ page.date | date: "%Y年%-m月%-d日&nbsp;&nbsp;%H:%M" }}
+        {{ page.date | date: "%H:%M&nbsp;&nbsp;%Y-%-m-%-d" }}
       {% when 'en' %}
         {{ page.date | date: "%H:%M&nbsp;&nbsp;%B %-d, %Y" }}
       {% else %}
