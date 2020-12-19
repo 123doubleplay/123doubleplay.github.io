@@ -7,30 +7,36 @@ no_back_top: true
 ref: about
 ---
 
->*<sub>This site is dedicated to HW311, a computer lab in Haking Wong Building HKU, and
-my companions there. In my four years of university, I spent most of the time
-learning, coding, and living in HW311. In there I've also met many friends and
-mentors, who guided me through my ups and downs. I dare not except that I have
-left my own impression on HW311 or the great minds there, but the wisdom of
-them has always been enlightening me.</sub>*
+*<sub>$
+\begin{align}
+  DoublePlay_{123} = \frac{Tech\ +\ Physics\ +\ Math\ +\ Finance\ +\ Philosofy\ +\ \cdots\ +\ n}{Baseball}
+\end{align}
+$</sub>*
 
 <hr>
 
-Graduated from HKU (BEng CompSci). Now pursuing an MSCS degree at UCI.
+This is a blog where you will find explanations of a variety of concepts using baseball.
 
-Inspired and encouraged by my friends, I hereby boldly open up a space to write
-and record.
+The concepts that you could read in a post range from physics, finance, maths, tech, algorithms and even philosophy, among others.
 
-I enjoy trying out new things but my perseverance may be questionable.
-:stuck_out_tongue:
-Rate of posting can not be guaranteed.
+When you learn something new about baseball and in addition something new about another topic, we call it:
 
-Really appreciate your visit.
+<center> 1-2-3 Double Play! </center>
+\\
+In baseball, this notation is a way to indicate a double play where the play start with the pitcher (that is the #1), throw it to the catcher (#2), and the catcher throw it to the first base (#3).<sup>[1](#1)</sup> To add more exited to the play, the bases need to be loaded.
+
+Among all the double plays possibilities in baseball, I consider it the most exiting combination. The same thing about this blog idea. I hope you too.
+
+Really appreciate your visit. Enjoy the content.
+\\
+\\
+[Javier Gálvez](https://jjaviergalvez.github.io/), the author of this blog.
+
 
 <hr>
+
+<sub><a name="1">1</a>: In baseball each position has a number associate it. Learn about it [here](http://probaseballinsider.com/baseball-instruction/baseball-basics/baseball-basics-positions/).
 
 <sub>This site is powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).</sub>
 
-<sub>Website icon made by [Freepik](https://www.freepik.com/) from [Flaticon](https://www.flaticon.com/), licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/).</sub>
-
-<sub>Index page photo by [Thomas Kvistholt](https://unsplash.com/photos/oZPwn40zCK4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/server?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).</sub>
+<sub>Index page photo by [Polina Zimmerman](https://www.pexels.com/photo/white-book-page-with-white-baseball-3747270/) from [pexels](https://www.pexels.com/).</sub>

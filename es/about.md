@@ -1,28 +1,42 @@
 ---
 layout: page
-title: 关于
+title: Acerca de
 permalink: /es/about/
 lang: es
 no_back_top: true
 ref: about
 ---
 
-> *<sub>谨以此小站献给香港大学黄克竞楼311机房，HW311，以及曾经其中去去留留，陪伴我大学起起落落的所有人。四年的大部分时间里，我在311学习、写代码、生活、吹牛逼，也结识了许多有趣的好友、人生的导师。不敢奢望自己给311或是其中人留下了什么，但是那些人和311对我的塑造历久弥新。</sub>*
+*<sub>$
+\begin{align}
+  DoublePlay_{123} = \frac{Tecnología\ +\ Matemáticas\ +\ Finanzas\ +\ Filosofía\ +\ \cdots\ +\ n}{Beisbol}
+\end{align}
+$</sub>*
 
 <hr>
 
-香港大学BEng(CompSci)毕业生，UCI MSCS在读。
+Este es un blog donde econtrarás explicaciones de una variedad de conceptos usando beisbol.
 
-受朋友启发及鼓励，斗胆开辟一个写写东西、记录心得的地方。可能有随笔，可能有浅薄的学习笔记，也可能有日常无聊吐槽。
+Los conceptos que pudieras leer en una publicación puede abarcar desde física, finanzas, matemáticas, tecnología, algoritmos e incluso filosofía, entre otros temas.
 
-喜欢折腾，但毅力存疑，更新频率无法预测。
+Cuando aprendes algo nuevo del beisbol y además algo nuevo de otro tema, le llamamos:
 
-惠临鄙处，不胜感激。
+<center> 1-2-3 Double Play! </center>
+\\
+En beisbol, esta notación es una manera de indicar un double play en el que la jugada empieza con el pitcher (que es el #1), se la lanza al catcher (#2) y el catcher la lanza a primera base (#3).<sup>[1](#1)</sup> Para agregar más emoción a la jugada, las bases necesitan estar llenas.
+
+Dentro de todas las posibilidades de doble play, considero esta, la más emocionante. Lo mismo sobre la idea de este blog. Espero que tu también.
+
+Realmente aprecio tu visita. Disfruta el contenido.
+\\
+\\
+[Javier Gálvez](https://jjaviergalvez.github.io/), el autor de este blog.
+
 
 <hr>
 
-<sub>此网站由[Jekyll](https://jekyllrb.com/)及[GitHub Pages](https://pages.github.com/)驱动。</sub>
+<sub><a name="1">1</a>: En el beisbol, cada posición tiene un número asociado a ella. Aprende sobre ello [aquí](https://luismiguelguerrero.com/2017/12/20/beisbol-para-principiantes-cuales-son-las-posiciones-a-la-defensiva/).
 
-<sub>此网站图标由[Freepik](https://www.freepik.com/)制作，获取自[Flaticon](https://www.flaticon.com/)，根据[CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)协议分发。</sub>
+<sub>Este sitio es desarrolado con [Jekyll](https://jekyllrb.com/) y [GitHub Pages](https://pages.github.com/).</sub>
 
-<sub>此网站主页图片由[Thomas Kvistholt](https://unsplash.com/photos/oZPwn40zCK4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)拍摄制作，获取自[Unsplash](https://unsplash.com/search/photos/server?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)。</sub>
+<sub>Foto de la página principal creada por [Polina Zimmerman](https://www.pexels.com/photo/white-book-page-with-white-baseball-3747270/) de [pexels](https://www.pexels.com/).</sub>
