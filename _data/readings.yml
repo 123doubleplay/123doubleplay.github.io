@@ -1,15 +1,17 @@
 - title:
-    default: "Zhuoran's GitBook"
-    en: "Zhuoran's GitBook"
-    es: "年子: Mali GPU 驱动详解 - 卓然"
-  url: "https://jiesuoran.gitbook.io/"
+    default: "The Man Who Solved the Market"
+    en: "The Man Who Solved the Market"
+    es: "The Man Who Solved the Market"
+  url: "https://www.amazon.com/Man-Who-Solved-Market-Revolution/dp/073521798X"
 
 - title:
-    default: "Category Theory for Programmers"
-    en: "Category Theory for Programmers"
-    es: "程序员眼中的范畴论"
-  url: "https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/"
+    default: "Million Dollar Baby: Stories from the Corner"
+    en: "Million Dollar Baby: Stories from the Corner"
+    es: "Million Dollar Baby: Stories from the Corner"
+  url: "https://www.amazon.com/Million-Dollar-Baby-Stories-Corner/dp/006081926X"
 
 - title:
-    default: "OSDev Wiki"
-  url: "https://wiki.osdev.org/Main_Page"
+    default: "Advances in Financial Machine Learning"
+    en: "Advances in Financial Machine Learning"
+    es: "Advances in Financial Machine Learning"
+  url: "https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089"
