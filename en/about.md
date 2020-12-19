@@ -9,7 +9,7 @@ ref: about
 
 *<sub>$
 \begin{align}
-  DoublePlay_{123} = \frac{Tech\ +\ Physics\ +\ Math\ +\ Finance\ +\ Philosofy\ +\ \cdots\ +\ n}{Baseball}
+  DoublePlay_{123} = \frac{Technology\ +\ Maths\ +\ Philosofy\ +\ \cdots\ +\ n}{Baseball}
 \end{align}
 $</sub>*
 
