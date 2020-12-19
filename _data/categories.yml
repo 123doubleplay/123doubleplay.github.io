@@ -1,21 +1,35 @@
-- ref: Study-notes
+- ref: Tech
   name:
-    default: 'Study notes'
-    en: 'Study notes'
-    es: 学习笔记
+    default: 'Technology'
+    en: 'Technology'
+    es: Tecnología
 
-- ref: Database
+- ref: Physics
   name:
-    default: 'Database systems'
-    en: 'Database systems'
-    es: 数据库系统
+    default: 'Physics'
+    en: 'Physics'
+    es: Physics
+
+- ref: Maths
+  name:
+    default: Maths
+    en: Maths
+    es: Matemáticas
+
+- ref: Finance
+  name:
+    default: Finance
+    en: Finance
+    es: Finanzas
+
+- ref: ML
+  name:
+    default: 'Machine Learning'
+    en: 'Machine Learning'
+    es: 'Machine Learning'
 
 - ref: Misc
   name:
     default: Misc
     en: Misc
-    es: 杂文
-
-- ref: Jekyll
-  name:
-    default: Jekyll
+    es: Misc
