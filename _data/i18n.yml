@@ -14,7 +14,7 @@ description:
 in:
   default: in
   en: in
-  es: Dentro de：
+  es: en
 
 share:
   default: 'Share: '
