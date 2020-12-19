@@ -18,7 +18,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://123doubleplay.github.io/" # the base hostname & protocol for your site
 cover: "/assets/header_image.png"
-logo: "/assets/logo.jpg"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -107,12 +107,12 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.jpg"
+    fb_image: "/assets/logo.png"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/jpg"
 
-    twitter_image: "/assets/logo.jpg"
+    twitter_image: "/assets/logo.png"
 
     os_repo: "https://github.com/123doubleplay/123doubleplay.github.io"
     os_rcs_type: "git"
