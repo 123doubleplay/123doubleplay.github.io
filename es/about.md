@@ -23,9 +23,9 @@ Cuando aprendes algo nuevo del beisbol y además algo nuevo de otro tema, le lla
 
 <center> 1-2-3 Double Play! </center>
 \\
-En beisbol, esta notación es una manera de indicar un double play en el que la jugada empieza con el pitcher (que es el #1), se la lanza al catcher (#2) y el catcher la lanza a primera base (#3).<sup>[1](#1)</sup> Para agregar más emoción a la jugada, las bases necesitan estar llenas.
+En beisbol, esta notación es una manera de indicar un double play en el que la jugada empieza con el pitcher (que es el #1), se la lanza al catcher (#2) y el catcher la lanza a primera base (#3).<sup>[1](#1)</sup> Para agregar más emoción a la jugada, las bases necesitan estar llenas. Mira a los Dodgers ejecutar esta jugada en [este video](https://youtu.be/0IIS1bD7DC8).
 
-Dentro de todas las posibilidades de doble play, considero esta, la más emocionante. Lo mismo sobre la idea de este blog. Espero que tu también.
+Dentro de todas las posibilidades de double play, considero esta, la más emocionante. Lo mismo sobre la idea de este blog. Espero que tu también.
 
 Realmente aprecio tu visita. Disfruta el contenido.
 \\

@@ -23,7 +23,7 @@ When you learn something new about baseball and in addition something new about 
 
 <center> 1-2-3 Double Play! </center>
 \\
-In baseball, this notation is a way to indicate a double play where the play start with the pitcher (that is the #1), throw it to the catcher (#2), and the catcher throw it to the first base (#3).<sup>[1](#1)</sup> To add more exited to the play, the bases need to be loaded.
+In baseball, this notation is a way to indicate a double play where the play start with the pitcher (that is the #1), throw it to the catcher (#2), and the catcher throw it to the first base (#3).<sup>[1](#1)</sup> To add more exited to the play, the bases need to be loaded. Watch the Dodgers execute this play in [this video](https://youtu.be/0IIS1bD7DC8).
 
 Among all the double plays possibilities in baseball, I consider it the most exiting combination. The same thing about this blog idea. I hope you too.
 
