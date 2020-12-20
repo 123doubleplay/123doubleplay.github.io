@@ -8,7 +8,7 @@ plugins:
 # Site settings
 title: 1-2-3 Double Play!
 subtitle: "Explanations of hard concepts using baseball in a fun way"
-email: 123doubleplay.com@gmail.com
+email: 123doubleplay.blog@gmail.com
 name: 123 Double Play
 description: >
   Explanations of hard concepts using baseball in a fun way
@@ -91,8 +91,8 @@ social:
 
   - name: Twitter
     icon: twitter
-    username: 123double_play
-    url: https://twitter.com/123double_play
+    username: _123doubleplay
+    url: https://twitter.com/_123doubleplay
     desc: Share to Twitter
     share: true
 
