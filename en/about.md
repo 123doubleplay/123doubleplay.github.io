@@ -7,11 +7,11 @@ no_back_top: true
 ref: about
 ---
 
-*<sub>$
-\begin{align}
+*<sub><sub>
+\begin{equation*}
   DoublePlay_{123} = \frac{Technology\ +\ Maths\ +\ Philosofy\ +\ \cdots\ +\ n}{Baseball}
-\end{align}
-$</sub>*
+\end{equation*}
+</sub></sub>*
 
 <hr>
 
