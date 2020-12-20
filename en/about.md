@@ -30,7 +30,7 @@ Among all the double plays possibilities in baseball, I consider it the most exi
 Really appreciate your visit. Enjoy the content.
 \\
 \\
-[Javier Gálvez](https://jjaviergalvez.github.io/), the author of this blog.
+[J. Javier Gálvez-Gamboa](https://jjaviergalvez.github.io/), the author of this blog.
 
 
 <hr>
@@ -39,4 +39,4 @@ Really appreciate your visit. Enjoy the content.
 
 <sub>This site is powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).</sub>
 
-<sub>Index page photo by [Polina Zimmerman](https://www.pexels.com/photo/white-book-page-with-white-baseball-3747270/) from [pexels](https://www.pexels.com/).</sub>
+<sub>Index page photo base on the photography of [Polina Zimmerman](https://www.pexels.com/photo/white-book-page-with-white-baseball-3747270/) from [pexels](https://www.pexels.com/).</sub>

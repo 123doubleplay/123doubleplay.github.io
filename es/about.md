@@ -30,7 +30,7 @@ Dentro de todas las posibilidades de double play, considero esta, la más emocio
 Realmente aprecio tu visita. Disfruta el contenido.
 \\
 \\
-[Javier Gálvez](https://jjaviergalvez.github.io/), el autor de este blog.
+[J. Javier Gálvez-Gamboa](https://jjaviergalvez.github.io/), el autor de este blog.
 
 
 <hr>
@@ -39,4 +39,4 @@ Realmente aprecio tu visita. Disfruta el contenido.
 
 <sub>Este sitio es desarrolado con [Jekyll](https://jekyllrb.com/) y [GitHub Pages](https://pages.github.com/).</sub>
 
-<sub>Foto de la página principal creada por [Polina Zimmerman](https://www.pexels.com/photo/white-book-page-with-white-baseball-3747270/) de [pexels](https://www.pexels.com/).</sub>
+<sub>Foto de la página principal basada en la fotografía de [Polina Zimmerman](https://www.pexels.com/photo/white-book-page-with-white-baseball-3747270/) de [pexels](https://www.pexels.com/).</sub>
