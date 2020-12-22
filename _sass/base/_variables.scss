@@ -34,13 +34,20 @@ $purple: #8e44ad;			// Wisteria
 $orange: #d35400;			// Pumpkin
 $red:	#c0392b;				// Pomegranate
 $gray: #636e72;				// Asbestos
+// $yellow: #CCCC00;			// Dark yellow1
+// $yellow: #999900;			// Dark yellow2
+// $yellow: #666600;			// Dark yellow3
+$yellow: #333300;			// Dark yellow4
+// $yellow: #808000;			// olive
+// $yellow: #9B870C;      // Drab
+
 // Even more colors
 $bc-red: #bc0000;
 
 // Font Colors
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
-$action-color: $blue;
+$action-color: $yellow;
 $highlight-color: tint($action-color, 33%);
 
 // Border
