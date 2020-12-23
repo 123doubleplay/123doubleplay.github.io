@@ -9,34 +9,27 @@ ref: about
 
 *<sub><sub>
 \begin{equation*}
-  DoublePlay_{123} = \frac{Tecnología\ +\ Matemáticas\ +\ Filosofía\ +\ \cdots\ +\ n}{Beisbol}
+  \frac{Tecnología\ +\ Matemáticas\ +\ Filosofía\ +\ \cdots\ +\ n}{Beisbol}
 \end{equation*}
 </sub></sub>*
 
 <hr>
 
-Este es un blog donde econtrarás explicaciones de una variedad de conceptos usando beisbol.
+Este es un blog donde encontrarás explicaciones de una variedad de conceptos usando beisbol. Los conceptos van desde física, finanzas, matemáticas, tecnología, algoritmos e incluso filosofía, entre otros.
 
-Los conceptos que pudieras leer en una publicación puede abarcar desde física, finanzas, matemáticas, tecnología, algoritmos e incluso filosofía, entre otros temas.
+En el beisbol, cada posición tiene un número asociado. Por ejemplo, el lanzador es 1, el receptor 2 y la 1ra base es 3. Entre todas las posibilidades de double plays, considero que el 1-2-3 es una de las combinaciones más emocionantes.<sup>[1](#1)</sup>
 
-Cuando aprendes algo nuevo del beisbol y además algo nuevo de otro tema, le llamamos:
+Además, en este blog, cuando aprendes algo nuevo sobre el beisbol y además algo nuevo sobre otro tema, también es:
 
 <center> 1-2-3 Double Play! </center>
 \\
-En beisbol, esta notación es una manera de indicar un double play en el que la jugada empieza con el pitcher (que es el #1), se la lanza al catcher (#2) y el catcher la lanza a primera base (#3).<sup>[1](#1)</sup> Para agregar más emoción a la jugada, las bases necesitan estar llenas. Mira a los Dodgers ejecutar esta jugada en [este video](https://youtu.be/0IIS1bD7DC8).
+Desde mi punto de vista, una forma emocionante y divertida de enseñar y aprender; y la razón principal por la que existe este blog.
 
-Dentro de todas las posibilidades de double play, considero esta, la más emocionante. Lo mismo sobre la idea de este blog. Espero que tu también.
-
-Realmente aprecio tu visita. Disfruta el contenido.
-\\
-\\
-[J. Javier Gálvez-Gamboa](https://jjaviergalvez.github.io/), el autor de este blog.
+¡Disfruta del contenido y play ball!
 
 
 <hr>
 
-<sub><a name="1">1</a>: En el beisbol, cada posición tiene un número asociado a ella. Aprende sobre ello [aquí](https://luismiguelguerrero.com/2017/12/20/beisbol-para-principiantes-cuales-son-las-posiciones-a-la-defensiva/).
-
-<sub>Este sitio es desarrolado con [Jekyll](https://jekyllrb.com/) y [GitHub Pages](https://pages.github.com/).</sub>
+<sub><a name="1">1</a>: Aprende sobre el 123 y otros double plays en el beisbol [aquí](https://www.espn.com/mlb/story/_/id/24365450) y mira a los [Dodgers ejecutat un 123 double play](https://youtu.be/0IIS1bD7DC8).
 
 <sub>Foto de la página principal basada en la fotografía de [Polina Zimmerman](https://www.pexels.com/photo/white-book-page-with-white-baseball-3747270/) de [pexels](https://www.pexels.com/).</sub>
