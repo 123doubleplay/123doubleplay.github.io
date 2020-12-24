@@ -10,6 +10,12 @@
     en: 'Physics'
     es: Physics
 
+- ref: Phil
+  name:
+    default: 'Philosophy'
+    en: 'Philosophy'
+    es: Filosofía
+
 - ref: Maths
   name:
     default: Maths
@@ -31,5 +37,6 @@
 - ref: Misc
   name:
     default: Misc
-    en: Misc
-    es: Misc
+    en: Miscellaneous
+    es: Misceláneo
+
