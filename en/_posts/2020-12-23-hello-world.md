@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2020-12-23 22:51:00
-author: J. Javier Gálvez
+author: J. Javier Gálvez-Gamboa
 categories: Misc
 cover:  "/assets/imgs/fantasia-139678_960_720.jpg"
 lang: en

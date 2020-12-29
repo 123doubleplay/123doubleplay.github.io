@@ -7,7 +7,15 @@ layout: default
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
       <h1 class="title">{{ page.title }}</h1>
-      <p class="info">by <strong>{{ page.author }}</strong></p>
+				{% case page.lang %}
+				{% when 'es' %}
+					<p class="info">por <strong>{{ page.author }}</strong></p>
+				{% when 'en' %}
+					<p class="info">by <strong>{{ page.author }}</strong></p>
+				{% else %}
+					<p class="info">by <strong>{{ page.author }}</strong></p>
+				{% endcase %}
+
     </header>
   </div>
 </div>

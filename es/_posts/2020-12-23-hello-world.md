@@ -2,7 +2,7 @@
 layout: post
 title:  "Hola mundo"
 date:   2020-12-23 22:51:00
-author: J. Javier Gálvez
+author: J. Javier Gálvez-Gamboa
 categories: Misc
 tags: Divertido
 cover:  "/assets/imgs/fantasia-139678_960_720.jpg"
