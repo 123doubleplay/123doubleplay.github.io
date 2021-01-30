@@ -13,7 +13,7 @@ Baseball has been around [for over 200 years](https://www.papertrell.com/apps/pr
 
 This sport has evolved in such a way that it would seem absurd and irrational to think of playing it as it was played in its origins in some respects.
 
-For example, there was a time when a foul was not considered a [strike under any circumstances](https://sports.stackexchange.com/a/14939). Can you imagine the great advantage for the batter? How long could a turn at bat last? How long could a game last? This reminds me of the previous article, where [we talked about Kairos](https://123doubleplay.com/es/phil/2020/12/30/pandemic-world-series-2020/). We see in modern baseball that, although we continue to live in Kairos, the change in this rule has had, among other consequences, that the duration of a game is much shorter in general.
+For example, there was a time when a foul was not considered a [strike under any circumstances](https://sports.stackexchange.com/a/14939). Can you imagine the great advantage for the batter? How long could a turn at bat last? How long could a game last? This reminds me of the previous article, where [we talked about Kairos](https://123doubleplay.com/en/phil/2020/12/30/pandemic-world-series-2020/). We see in modern baseball that, although we continue to live in Kairos, the change in this rule has had, among other consequences, that the duration of a game is much shorter in general.
 
 Do you think most of the sports king's lovers of the time liked the idea of ​​changing that rule? Possibly more than one of them will have said a phrase like: "They just want to ruin this beautiful sport!" or "it has always been played this way and we are good with that." Does it sound familiar to you? Do you think that because something has been done in some way has to continue being done like that?
 
@@ -28,4 +28,4 @@ That's right, we live in a world where many questions remain the same, but the a
 For the moment, I leave you with the reflection of this brief analysis on this topic. What has gotten you where you are will not necessarily get you where you want to go, even if you want to stay where you are. That the rules and the answers change, require us to constantly innovate in order to survive or excel. You need evolution, adapt to new changes or be yourself who creates the change.
 
 <br/>
-Se el cambio que quieres ver en el mundo – Mohandas Gandhi
+Be the change you want to see in the world - Mohandas Gandhi

@@ -28,4 +28,4 @@ Así es, vivimos en un mundo en el que muchas preguntas siguen siendo las mismas
 Por el momento, los dejo con la reflexión de este breve análisis en torno a este tema. Lo que te ha llevado hasta dónde estás, no necesariamente te llevará a donde quieres ir, incluso si quieres seguir donde estás. Que las reglas y las respuestas cambien, requieren de nosotros de una constante innovación para poder sobrevivir o sobresalir. Se necesita evolución, adaptarse a los nuevos cambios o bien ser tú mismo quien cree el cambio. 
 
 <br/>
-Be the change you want to see in the world - Mohandas Gandhi
+Se el cambio que quieres ver en el mundo – Mohandas Gandhi
